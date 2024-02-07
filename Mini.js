@@ -1,4 +1,3 @@
-
 let boxes = document.querySelectorAll(".box");
 let btn = document.querySelector(".btn");
 let btn1 = document.querySelector(".btn1");
@@ -24,7 +23,6 @@ const WinSenario = [
     [0,4,8,0,0,45],
     [2,4,6,0,0,135],
 ];
-
 const resetgame = () => {
     turn0 = true;
     cnt = 0;
@@ -37,7 +35,6 @@ const resetgame = () => {
 };
 
 boxes.forEach((box) => {
-   // document.querySelector(".line").style.width = "10vw";
     box.addEventListener("click",() => {
         console.log("Box was Clicked");
         Gametime.play();
@@ -114,11 +111,9 @@ const CheckWinner = () => {
    let val3 = boxes[pattern[2]].innerText;
    document.querySelector(".line").style.transform = `translate(${pattern[3]}vw, ${pattern[4]}vw) rotate(${pattern[5]}deg)`
   
-    console.log(val1,val2,val3);
      if(val1 !== "" && val2 !== "" && val3 !== ""){
            if(val1 === val2 && val2 === val3){
             ShowWinner(val1);
-           
             return true;
            }
        }
