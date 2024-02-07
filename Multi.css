@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ffe26a;
+    text-align: center;
+    background-image: url("Background.jpg");
+}
+.container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2vmin;
+    position: relative;
+}
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    background-color: #581845eb;
+}
+.btn{
+    background-color: orange;
+    border-radius: 1rem;
+    font-size: 1.25rem;
+    border: none;
+    color:solid red;
+    padding: 1rem;
+}
+.btn1{
+    background-color: orange;
+    border-radius: 1rem;
+    font-size: 1.25rem;
+    border: none;
+    color: solid red;
+    padding: 1rem;
+    margin: 1rem;
+}
+.info{
+    font-size: 30px;
+    margin: 10px;
+    color: #ffe26a;
+    background-color: purple;
+}
+.line{
+    background-color: white;
+    height: 5px;
+    position: absolute;
+    transition: width 1s ease-in-out;
+}
+.msgContainer{
+    height: 10vmin;
+}
+#para{
+    font-size: 25px;
+    color: rgb(2, 242, 230);
+}
+.hide{
+    display: none;
+}
+.backgrd{
+    background-image: url("firework.gif");
+}
+#peng{
+    height: 400px;
+    position: absolute;
+    top: 20%;
+    right: 13%;
+}
+.img1{
+    height: 25px;
+    width: 50px;
+}
+.img2{
+    height: 25px;
+    width: 50px;
+    background: transparent ("left.jpg");
+}
+.blink{
+    animation: blinker 1.5s linear infinite;
+}
+@keyframes blinker {
+    0% {
+        opacity: 0.2;
+    }
+    50% {
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
