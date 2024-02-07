@@ -111,9 +111,10 @@ const CheckWinner = () => {
    let val3 = boxes[pattern[2]].innerText;
    document.querySelector(".line").style.transform = `translate(${pattern[3]}vw, ${pattern[4]}vw) rotate(${pattern[5]}deg)`
   
+    console.log(val1,val2,val3);
      if(val1 !== "" && val2 !== "" && val3 !== ""){
            if(val1 === val2 && val2 === val3){
-            ShowWinner(val1);
+            ShowWinner(val1); 
             return true;
            }
        }
