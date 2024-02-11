@@ -11,5 +11,5 @@ Mozilla-Firefox Make.html
 
 # Rules
 * Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
-* Player with the 'X' mark starts first anywhere in the 3x3 square grid.Then the second Player with 'O' marks fill the empty space which he/she want.
+* Player with the 'X' mark starts first anywhere in the 3x3 square grid.Then the second Player with 'O' marks fill the empty space which they want.
 * The player who first place 3 marks in a vertical, horizontal, or diagonal row wins the game match.
