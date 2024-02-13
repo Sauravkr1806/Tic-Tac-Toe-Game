@@ -4,7 +4,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 # Run on Terminal
 Mozilla-Firefox Make.html
 
-# Table Content -
+# Table Content
 
 
 # Introduction
