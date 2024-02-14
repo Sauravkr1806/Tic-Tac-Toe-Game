@@ -13,7 +13,7 @@ Mozilla-Firefox Make.html
 
 [Rules](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#rules/)
 # OverView
-As Required,I made this Simple Tia Tac Toe game as my first individual project.
+As Required,I made this Simple Tia Tac Toe game as my first individual project. It's built with html,css and javascript.
 
 # Introduction
 Tic Tac Toe, also known as Noughts and crosses, is a classic two-Player game 
@@ -25,3 +25,4 @@ Tic Tac Toe, also known as Noughts and crosses, is a classic two-Player game
 * Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
 * Player with the 'X' mark starts first anywhere in the 3x3 square grid.Then the second Player with 'O' marks fill the empty space which they want.
 * The player who first place 3 marks in a vertical, horizontal, or diagonal row wins the game match.
+* If all spaces are filled and we cann't decide the winner of the game, the game ends in a draw.
