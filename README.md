@@ -18,7 +18,7 @@ Mozilla-Firefox Make.html
 As Required,I made this Simple Tia Tac Toe game as my first individual project. It's built with html,css and javascript.
 
 # Introduction
-Tic Tac Toe, also known as Noughts and crosses, is a classic two-Player game 
+Tic Tac Toe, also known as Noughts and crosses, is a classic two-Player game. The goal of this project was to create a Tic-Tac-Toe board which is able to monitor the state of a game and return the win/loose/draw state of the game after each player's move. The game allows two players to play against each other.
 
 # ShowCase
 ![Screenshot (105)](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game/assets/136987475/d2e95f6f-37f4-459a-b2c2-b3797bdd09e2)
