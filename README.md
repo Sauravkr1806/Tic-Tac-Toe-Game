@@ -5,15 +5,15 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 Mozilla-Firefox Make.html
 
 # Table Content
-[OverView](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#overview/).
+[OverView](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#overview).
 
 [Introduction](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#introduction).
 
-[ShowCase](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#showcase/).
+[ShowCase](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#showcase).
 
-[Rules](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#rules/).
+[Rules](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#rules).
 
-[Conclusion](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game/blob/main/README.md#conclusion/).
+[Conclusion](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game/blob/main/README.md#conclusion).
 # OverView
 As Required,I made this Simple Tia Tac Toe game as my first individual project. It's built with html,css and javascript.
 
