@@ -5,7 +5,7 @@
 body{
     background-color: #ffe26a;
     text-align: center;
-    background-image: url("Background.jpg");
+    background-image: url("./Images/Background.jpg");
 }
 .container{
     height: 70vh;
@@ -78,7 +78,7 @@ body{
     display: none;
 }
 .backgrd{
-    background-image: url("firework.gif");
+    background-image: url("./Images/firework.gif");
 }
 #peng{
     height: 400px;
