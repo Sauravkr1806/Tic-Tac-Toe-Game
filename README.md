@@ -14,6 +14,8 @@ Mozilla-Firefox Make.html
 [Rules](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game?tab=readme-ov-file#rules).
 
 [Conclusion](https://github.com/Sauravkr1806/Tic-Tac-Toe-Game/blob/main/README.md#conclusion).
+
+[Live Demo](https://sauravkr1806.github.io/Tic-Tac-Toe-Game/)
 # OverView
 As Required,I made this Simple Tia Tac Toe game as my first individual project. It's built with html,css and javascript.
 
