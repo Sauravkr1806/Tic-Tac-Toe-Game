@@ -3,11 +3,11 @@ let btn = document.querySelector(".btn");
 let btn1 = document.querySelector(".btn1");
 let msgContainer = document.querySelector(".msgContainer");
 let para = document.querySelector("#para");
-let Gametime = new Audio("./Sound/Background.mp3");
-let Gamedraw = new Audio("./Sound/Drawgame.mp3");
-let GameWinner = new Audio("./Sound/Winner.mp3");
-let turn1 = new Audio("./Sound/move1.mp3");
-let turn2 = new Audio("./Sound/move2.mp3");
+let Gametime = new Audio("./Sounds/Background.mp3");
+let Gamedraw = new Audio("./Sounds/Drawgame.mp3");
+let GameWinner = new Audio("./Sounds/Winner.mp3");
+let turn1 = new Audio("./Sounds/move1.mp3");
+let turn2 = new Audio("./Sounds/move2.mp3");
 
 let turn0 = true;
 let turn = "X";
